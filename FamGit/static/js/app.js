@@ -1,0 +1,1 @@
+console.log("Reserves static JS loaded");
